@@ -2,7 +2,7 @@
 
 iReports-back-end is going to provide RESTful API which will help in implementing iReports project
 
-## Goal of Web page
+# Goal of Web page
 - User can can create an account and login.
 - User can create, edit, delete a **red-flag** record (An incident linked to corruption) and intervention records (a call for a government agency to intervene e.g repair bad road sections, collapsed bridges, flooding etc). 
 - User can add and change geolocation (Lat Long coordinates) to their **red-flag** or **Intervention** records.
@@ -17,15 +17,13 @@ iReports-back-end is going to provide RESTful API which will help in implementin
 
 
 
-## **Technologies used**
+# **Technologies used**
 - Node Js
 - Express
 - Javascript
-## **Deployment 🚀**
+# **Deployment 🚀**
 <!-- will be shared very soon -->
 
-## **Author**
+# **Author**
 
 [NZABIHIMANA Jeanne Beula](https://github.com/JeanneBeula)
-
-
